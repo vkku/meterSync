@@ -5,3 +5,4 @@ This repository holds code for my personal project to persist units consumed to 
 Adhoc API to be used
 Use IFTTT triggers as microservices - Maker
 NoSQL DB can be used
+Decided to use MongoDB
