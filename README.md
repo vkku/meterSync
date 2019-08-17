@@ -7,3 +7,4 @@ Use IFTTT triggers as microservices - Maker
 NoSQL DB can be used
 Decided to use MongoDB - mLab
 IFTTT Maker to be used
+Frontend should be implemented with - React
